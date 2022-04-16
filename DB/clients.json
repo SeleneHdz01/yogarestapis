@@ -1,0 +1,8 @@
+{"_id":{"$oid":"62563b7754d83dbc7187868d"},"name":"Jose Juan","lastName":"Perez","email":"josejuan@mail.com","phone":"5544332211","__v":0}
+{"_id":{"$oid":"6258ae878f5fbff5e57ea417"},"name":"Ana Flor","email":"ana@mail.com","phone":"5544332211","__v":0}
+{"_id":{"$oid":"6258aec18f5fbff5e57ea41b"},"name":"Carlos","email":"calos@mail.com","phone":"5566778899","__v":0}
+{"_id":{"$oid":"6259b0668f5fbff5e57ea426"},"name":"Lucia","email":"lucia@mail.com","phone":"550011223344","__v":0}
+{"_id":{"$oid":"6259b23f8f5fbff5e57ea430"},"name":"Pedro","email":"pedro@mail.com","phone":"3344556677","__v":0}
+{"_id":{"$oid":"6259b36f8f5fbff5e57ea434"},"name":"Jonh","email":"jonh@mail.com","phone":"1122334455","__v":0}
+{"_id":{"$oid":"6259b4d58f5fbff5e57ea43a"},"name":"Mary","email":"mary@mail.com","phone":"2233445566","__v":0}
+{"_id":{"$oid":"6259b6068f5fbff5e57ea43c"},"name":"Bruno","email":"bruno@mail.com","phone":"4455667788","__v":0}
